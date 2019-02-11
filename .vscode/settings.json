@@ -1,0 +1,9 @@
+{
+    "workbench.settings.openDefaultKeybindings": false,
+    "files.autoSave": "onFocusChange",
+    "files.associations": {
+        "iostream": "cpp"
+    },
+    "C_Cpp.intelliSenseEngineFallback": "Disabled",
+    "C_Cpp.errorSquiggles": "Disabled"
+}

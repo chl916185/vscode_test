@@ -1,0 +1,3 @@
+/home/chl/workspaces/torch_cc/vs_code_learn/0/build/CMakeFiles/edit_cache.dir
+/home/chl/workspaces/torch_cc/vs_code_learn/0/build/CMakeFiles/rebuild_cache.dir
+/home/chl/workspaces/torch_cc/vs_code_learn/0/build/CMakeFiles/example-app.dir

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/chl/workspaces/torch_cc/vs_code_learn/0/build",
+  "command": "/usr/bin/c++    -isystem /home/chl/workspaces/torch_cc/libtorch/include -isystem /home/chl/workspaces/torch_cc/libtorch/include/torch/csrc/api/include -isystem /usr/local/cuda/include -isystem /usr/local/include/opencv -isystem /usr/local/include  -g   -D_GLIBCXX_USE_CXX11_ABI=0 -std=c++11 -std=gnu++11 -o CMakeFiles/example-app.dir/main.cpp.o -c /home/chl/workspaces/torch_cc/vs_code_learn/0/main.cpp",
+  "file": "/home/chl/workspaces/torch_cc/vs_code_learn/0/main.cpp"
+}
+]
